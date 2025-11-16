@@ -23,11 +23,13 @@ The main goal was to use customer data to answer:
 
 ## 🗂 3. Project Structure
 Customer_Shopping_Behaviour_Analysis/
-│── customer_shopping_behavior.xlsx # Dataset
-│── eda_notebook.ipynb # Python data preparation
+│── customer_shopping_behavior.ipynb #python data preparation
+│── eda_notebook.pbix # Power BI dashboard
 │── customer_shopping_behaviour.sql # SQL business logic
-│── customer_shopping_behaviour.pbix # Power BI dashboard
-│── README.md # Documentation
+│── screenshot # Power BI dashboard screenshot
+│── customer_shopping_behavior.csv #Dataset
+|-- License (MIT License)
+|--README.md
 
 ---
 
