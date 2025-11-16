@@ -65,9 +65,7 @@ All major business questions were answered using SQL:
 - Subscription breakdown  
 - Revenue & sales by age group  
 
-*(Add your dashboard image here)*  
-Example:  
-![Dashboard Screenshot]("C:\Users\ashis\OneDrive\Pictures\Screenshots 1\Screenshot 2025-11-15 224209.png")
+![image alt] (https://github.com/Ashish2003-debug/Customer_Shopping_Behaviour_Analysis-PYTHON-SQL-POWER-BI-/blob/74c91dfba7214e3a2ddf69f3f913ebd481cf140a/Customer_Shopping_Behaviuor_Analysis/Screenshot%202025-11-15%20224209.png)
 
 ---
 
