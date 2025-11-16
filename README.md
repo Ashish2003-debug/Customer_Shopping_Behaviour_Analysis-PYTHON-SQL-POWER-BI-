@@ -67,7 +67,7 @@ All major business questions were answered using SQL:
 
 *(Add your dashboard image here)*  
 Example:  
-![Dashboard Screenshot](link_to_image)
+![Dashboard Screenshot]("C:\Users\ashis\OneDrive\Pictures\Screenshots 1\Screenshot 2025-11-15 224209.png")
 
 ---
 
